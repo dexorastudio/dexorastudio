@@ -1,0 +1,8 @@
+{
+  "name": "DEXORA STUDIO",
+  "description": "DEXORA STUDIO creates modern websites, premium web design, responsive development, and immersive digital experiences for ambitious brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
